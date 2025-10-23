@@ -1,5 +1,6 @@
 pyannote-audio==4.0.1
 pyannote-core==6.0.1
-lightning==2.5.5
 pyannote-database==6.1.0
 pyannote-metrics==4.0.0
+lightning==2.5.5
+pyannote-pipeline>=3.0,<3.1
